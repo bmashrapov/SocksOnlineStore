@@ -1,6 +1,6 @@
 ### Web application for the accounting of socks in the warehouse of an online store
 ## The user (warehouse worker) has the ability to:
--
+
 - register the arrival of goods at the warehouse;
 - register the shipment of goods from the warehouse;
 - to write off the damaged goods;
@@ -13,7 +13,7 @@
 - download all the data about the goods that are in stock;
 - upload the updated list of products;
 ## The product has the following characteristics:
-- 
+
 - color of socks;
 - sock size;
 - composition of socks;
